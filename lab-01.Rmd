@@ -18,6 +18,8 @@ library(tidyverse)
 visitors <- read_csv("data/UK-visitor-numbers.csv")
 ```
 
+view(visitors)
+
 
 
 # Wrangling Data
